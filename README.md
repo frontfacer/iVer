@@ -12,7 +12,9 @@
 <b>mk</b> = Mark<br>
 
 ## Use Cases<br>
-<b>mk</b>*n*: Shall be used when an existing project is redesigned and built from scratch but relies on the concept and developments previously achieved. When a new mk is launched, the versioning shall start from 1.0.0.
+<b>mk</b>*n*: Shall be used when an existing project is redesigned and built from scratch but relies on the concept and developments previously achieved. When a new mk is launched, the versioning shall start from 1.0.0.<br>
+<br>
+<b>build:</b> Developer side only. Any changes that are meant to better organise or structure the app, with 0 impact on the user end, shall be recorded with a build number. Use Cases include changing the name of a ```<div>``` or arranging the code differently. Changes to the *README.md* files should also be recorded using *build* if nothing else is touched.
 
 ## Disclaimer<br>
 The iVer changes are creating unique concepts. Each new adjustment is considered a new concept for how the projects shall be standardized.
