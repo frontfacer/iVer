@@ -7,6 +7,8 @@
 <b>Second Number:</b> Stability updates and improvements on the existing version.<br>
 <b>Third Number:</b> Design and/or minor changes of the same version.<br>
 
+*Note: The number that's ahead resets the number that follows it. If you have, for example, version 1.2.3 and you make a <b>stability update</b>, the new version should be 1.3.0 and not 1.3.3.*
+
 ## Abbreviations Dex<br>
 <b>iVer</b> = Info Version<br>
 <b>mk</b> = Mark<br>
